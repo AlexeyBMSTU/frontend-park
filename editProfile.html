@@ -1,0 +1,39 @@
+<!-- HTML -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Profile - Patreon</title>
+    <link rel="stylesheet" href="/static/css/main.css">
+</head>
+<body>
+    <header>
+        <nav aria-label="Main navigation">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Creators</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="edit-profile">
+            <h2>Edit Profile</h2>
+            <form>
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username"><br><br>
+                <label for="bio">Bio:</label>
+                <textarea id="bio" name="bio"></textarea><br><br>
+                <label for="profile-picture">Profile Picture:</label>
+                <input type="file" id="profile-picture" name="profile-picture"><br><br>
+                <button>Save Changes</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Patreon</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
