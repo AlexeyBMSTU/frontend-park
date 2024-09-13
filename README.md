@@ -3,16 +3,10 @@
 
 ## Ссылки
 Участники команды:
-1. <a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a>
+1. <a href="https://github.com/AlexeyBMSTU"><h5> d</h5>Алексей Нарыжный</a>
 3. <a href="https://github.com/KhovenOlya">Ольга Ховен</a>
 5. <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
 7. <a href="https://github.com/PtFux">Полина Тикунова</a>
-
-<h5>
-<a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a><a href="https://github.com/Danil-Zlo">Данил Злобин</a>
-
-<a href="https://github.com/KhovenOlya">Ольга Ховен</a>          <a href="https://github.com/PtFux">Полина Тикунова</a>
-</h5>
 
 Менторы:
 1. Илья Мочалов
