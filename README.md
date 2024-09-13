@@ -1,6 +1,6 @@
 # Frontend репозиторий команды TeamOn
 
-
+![Static Badge](https://img.shields.io/badge/OkulusDev-Oxygen-Oxygen)
 
 ## Ссылки
 1. Алексей Нарыжный
