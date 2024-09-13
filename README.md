@@ -19,7 +19,7 @@
 3. Александра Глазкова
 
 Ресурсы:
-<h5><a href="https://github.com/PtFux">Backend</a>
+<h5><a href="https://github.com/AlexeyBMSTU/backend-park">Backend</a>
   
 <a href="https://github.com/PtFux">Deploy</a></h5>
 
