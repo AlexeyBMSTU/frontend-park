@@ -2,7 +2,7 @@
 <a href="https://github.com/AlexeyBMSTU">Git</a>
 ## Ссылки
 1. Алексей Нарыжный
-<a href="https://github.com/AlexeyBMSTU">Git</a> [Telegram](https://t.me/fish190) 
+<a href="https://github.com/AlexeyBMSTU">Git</a> <a href="https://t.me/fish190">Telegram</a>
 3. Ольга Ховен
 [Git](https://github.com/KhovenOlya) [Telegram](https://t.me/olkhoven)
 5. Данил Злобин
