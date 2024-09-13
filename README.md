@@ -2,7 +2,7 @@
 
 ## Ссылки
 1. Алексей Нарыжный
-[GIT](https://github.com/AlexeyBMSTU)
+<p> [GIT](https://github.com/AlexeyBMSTU)
 3. Ольга Ховен
    ![GitHub Repo stars](https://github.com/AlexeyBMSTU)
 5. Данил Злобин
