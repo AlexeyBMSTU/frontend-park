@@ -12,7 +12,7 @@
 <a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a> 
 
 
-  <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
+<a href="https://github.com/Danil-Zlo">Данил Злобин</a>
 
 <a href="https://github.com/KhovenOlya">Ольга Ховен</a>       
 
