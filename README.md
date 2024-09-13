@@ -8,6 +8,7 @@
 5. Данил Злобин
 <a href="https://github.com/Danil-Zlo">Git</a> <a href="https://t.me/maxround">Telegram</a>
 7. Полина Тикунова
-<a href="https://github.com/PtFux"><button> SD</button>Git</a> <a href="https://t.me/popitsd">Telegram</a>
+<a href="https://github.com/PtFux">Git</a> <a href="https://t.me/popitsd">Telegram</a>
 
+![Logotype](https://papercallio-production.s3.amazonaws.com/uploads/event/logo/786/frontend.png)
 Frontend TeamOn
