@@ -1,9 +1,9 @@
 # Frontend репозиторий команды TeamOn
-![Logotype](https://papercallio-production.s3.amazonaws.com/uploads/event/logo/786/frontend.png)
+![Logotype](https://i.pinimg.com/originals/7e/1b/fe/7e1bfe4493d852515f56a02dfba603b0.png)
 
 ## Ссылки
 Участники команды:
-1. <a href="https://github.com/AlexeyBMSTU"><h5> d</h5>Алексей Нарыжный</a>
+1. <a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a>
 3. <a href="https://github.com/KhovenOlya">Ольга Ховен</a>
 5. <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
 7. <a href="https://github.com/PtFux">Полина Тикунова</a>
@@ -12,6 +12,7 @@
 1. Илья Мочалов
 2. Никита Рыжков
 3. Александра Глазкова
+
 Ресурсы:
 <h5><a href="https://github.com/PtFux">Backend</a>
   
