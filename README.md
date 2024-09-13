@@ -8,6 +8,14 @@
 5. <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
 7. <a href="https://github.com/PtFux">Полина Тикунова</a>
 
+<h5>1. <a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a>
+
+2. <a href="https://github.com/KhovenOlya">Ольга Ховен</a>
+
+3. <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
+
+4. <a href="https://github.com/PtFux">Полина Тикунова</a> </h5>
+
 Менторы:
 1. Илья Мочалов
 2. Никита Рыжков
