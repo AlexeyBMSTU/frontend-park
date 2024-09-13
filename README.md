@@ -9,8 +9,8 @@
 7. <a href="https://github.com/PtFux">Полина Тикунова</a>
 
 
-<h5>
-1. <a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a>
+
+<h5>1. <a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a>
   
 2. <a href="https://github.com/KhovenOlya">Ольга Ховен</a>
 
