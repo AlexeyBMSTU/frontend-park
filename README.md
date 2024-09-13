@@ -4,10 +4,10 @@
 1. Алексей Нарыжный
 [Git](https://github.com/AlexeyBMSTU)
 3. Ольга Ховен
-   [Git](https://github.com/KhovenOlya)
+[Git](https://github.com/KhovenOlya)
 5. анил Злобин
-   [Git](https://github.com/Danil-Zlo)
+[Git](https://github.com/Danil-Zlo)
 7. Полина Тикунова
-   [Git](https://github.com/PtFux)
+[Git](https://github.com/PtFux)
    
 Frontend TeamOn
