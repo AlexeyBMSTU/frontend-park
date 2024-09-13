@@ -1,5 +1,5 @@
 # Frontend репозиторий команды TeamOn
-<a href="https://github.com/AlexeyBMSTU">Git</a>
+
 ## Ссылки
 1. Алексей Нарыжный
 <a href="https://github.com/AlexeyBMSTU">Git</a> <a href="https://t.me/fish190">Telegram</a>
@@ -8,6 +8,6 @@
 5. Данил Злобин
 <a href="https://github.com/Danil-Zlo">Git</a> <a href="https://t.me/maxround">Telegram</a>
 7. Полина Тикунова
-<a href="https://github.com/PtFux">Git</a> <a href="https://t.me/popitsd">Telegram</a>
-   
+<a href="https://github.com/PtFux"><button> SD</button>Git</a> <a href="https://t.me/popitsd">Telegram</a>
+
 Frontend TeamOn
