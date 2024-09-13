@@ -2,6 +2,7 @@
 ![Logotype](https://i.pinimg.com/originals/7e/1b/fe/7e1bfe4493d852515f56a02dfba603b0.png)
 
 <h5> Проект посвящен созданию сервиса на подобии <a href="https://www.patreon.com/">Patreon</a> </h5>
+
 ## Ссылки
 Участники команды:
 1. <a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a>
