@@ -9,9 +9,13 @@
 7. <a href="https://github.com/PtFux">Полина Тикунова</a>
 
 <h5>
-<a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a> <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
+<a href="https://github.com/AlexeyBMSTU">Алексей Нарыжный</a> 
 
-<a href="https://github.com/KhovenOlya">Ольга Ховен</a>       <a href="https://github.com/PtFux">Полина Тикунова</a>
+  <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
+
+<a href="https://github.com/KhovenOlya">Ольга Ховен</a>       
+
+<a href="https://github.com/PtFux">Полина Тикунова</a>
 </h5>
 
 Менторы:
