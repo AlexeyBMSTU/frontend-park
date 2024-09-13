@@ -2,7 +2,7 @@
 
 ## Ссылки
 1. Алексей Нарыжный
-[Git](https://github.com/AlexeyBMSTU)
+[Git](https://github.com/AlexeyBMSTU) [Telegram](https://tg.me/fish190) 
 3. Ольга Ховен
 [Git](https://github.com/KhovenOlya)
 5. анил Злобин
