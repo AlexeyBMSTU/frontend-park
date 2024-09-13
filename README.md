@@ -2,6 +2,7 @@
 ![Logotype](https://papercallio-production.s3.amazonaws.com/uploads/event/logo/786/frontend.png)
 
 ## Ссылки
+Участники команды:
 1. Алексей Нарыжный
 <a href="https://github.com/AlexeyBMSTU">Git</a> <a href="https://t.me/fish190">Telegram</a>
 3. Ольга Ховен
@@ -11,6 +12,7 @@
 7. Полина Тикунова
 <a href="https://github.com/PtFux">Git</a> <a href="https://t.me/popitsd">Telegram</a>
 
+Ресурсы:
 <a href="https://github.com/PtFux">Backend</a>
-
+<a href="https://github.com/PtFux">Deploy</a>
 Frontend TeamOn
