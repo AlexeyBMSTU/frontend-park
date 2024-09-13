@@ -2,11 +2,11 @@
 
 ## Ссылки
 1. <p> Алексей Нарыжный </p>
-![GIT](https://github.com/AlexeyBMSTU)
-3. Ольга Ховен
-   ![GitHub Repo stars](https://github.com/AlexeyBMSTU)
-5. Данил Злобин
-   ![Git](https://github.com/Danil-Zlo)
-7. Полина Тикунова
-
+[Git](https://github.com/AlexeyBMSTU)
+3. <p> Ольга Ховен </p>
+   [Git](https://github.com/KhovenOlya)
+5. <p> Данил Злобин </p>
+   [Git](https://github.com/Danil-Zlo)
+7. <p> Полина Тикунова </p>
+   [Git](https://github.com/PtFux)
 Frontend TeamOn
