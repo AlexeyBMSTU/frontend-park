@@ -21,4 +21,3 @@
 Ресурсы:
 1. <a href="https://github.com/AlexeyBMSTU/backend-park">Backend</a>
 2. <a href="https://github.com/PtFux">Deploy</a></h5>
-
