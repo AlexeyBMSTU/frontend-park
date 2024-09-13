@@ -1,8 +1,8 @@
 # Frontend репозиторий команды TeamOn
 
 ## Ссылки
-1. <p> Алексей Нарыжный </p>
-[Git](https://github.com/AlexeyBMSTU)
+1. Алексей Нарыжный
+<h5> [Git](https://github.com/AlexeyBMSTU) </h5>
 3. <p> Ольга Ховен </p>
    [Git](https://github.com/KhovenOlya)
 5. <p> Данил Злобин </p>
