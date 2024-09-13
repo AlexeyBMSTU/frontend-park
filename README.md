@@ -15,7 +15,8 @@
 
 <a href="https://github.com/Danil-Zlo">Данил Злобин</a>
 
-<a href="https://github.com/PtFux">Полина Тикунова</a></h5>
+<a href="https://github.com/PtFux">Полина Тикунова</a>
+</h5>
 
 Менторы:
 1. Илья Мочалов
