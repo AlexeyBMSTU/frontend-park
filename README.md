@@ -11,4 +11,6 @@
 7. Полина Тикунова
 <a href="https://github.com/PtFux">Git</a> <a href="https://t.me/popitsd">Telegram</a>
 
+<a href="https://github.com/PtFux">Backend</a>
+
 Frontend TeamOn
