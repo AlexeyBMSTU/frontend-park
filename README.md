@@ -10,7 +10,7 @@
 5. Данил Злобин
 <a href="https://github.com/Danil-Zlo">Git</a> <a href="https://t.me/maxround">Telegram</a>
 7. Полина Тикунова
-<h5> <a href="https://github.com/PtFux">Git</a> <a href="https://t.me/popitsd">Telegram</a> </h5>h5>
+<h5><a href="https://github.com/PtFux">Git</a> <a href="https://t.me/popitsd">Telegram</a></h5>
 
 Ресурсы:
 <h5><a href="https://github.com/PtFux">Backend</a></h5>
